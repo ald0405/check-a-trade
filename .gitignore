@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dll
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+.env
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+*.whl
+
+# Installation artifacts
+.installed.cfg
+*.manifest
+
+# Unit test / coverage reports
+reports/
+htmlcov/
+.tox/
+.coverage
+
+# Translations
+*.mo
+*.pot
+
+# Django static assets
+static/
+media/
+
+# Logs and databases
+logs/
+*.log
+
+# Runtime data
+*.pid
+*.seed
+*.pkl
+*.dmp
+
+# Editor/IDE-specific files
+.idea/
+.project
+.workspace
+*.sublime-project
+*.sublime-workspace
+*.tmproj
+*.bak
+*.swp
+*.swo
+*.DS_Store  # macOS
+Thumbs.db   # Windows
